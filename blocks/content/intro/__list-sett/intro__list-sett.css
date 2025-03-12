@@ -1,0 +1,34 @@
+.intro__list-sett{
+    width: 690px;
+    height: 90px;
+    list-style: none;
+    padding: 0;
+    margin: 33px 0 0 0 ;
+}
+
+@media screen and (max-width: 1280px) {
+    .intro__list-sett{
+        width: 690px;
+        height: 90px;
+        margin: 33px 0 0 0 ;
+    }
+    
+}
+
+@media screen and (max-width: 1024px) {
+    .intro__list-sett{
+        width: 720px;
+        height: 90px;
+        margin: 33px 0 0 0 ;
+    }
+    
+}
+
+@media screen and (max-width: 768px) {
+    .intro__list-sett{
+        width: 288px;
+        height: 90px;
+        margin: 34px 0 0 0 ;
+    }
+    
+}

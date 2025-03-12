@@ -1,5 +1,7 @@
-.lead__image__polka{
+.photo-grid__item{
     object-fit: cover;
     overflow: hidden;
     margin: 0 0 0 0;
+    max-width: 100%;
+    height: auto;
 }
