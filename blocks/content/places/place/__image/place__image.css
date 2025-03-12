@@ -1,0 +1,7 @@
+.place__image{
+    object-fit: cover;
+    overflow: hidden;
+    margin: 0 0 0 0;
+    max-width: 100%;
+    height: auto;
+}
