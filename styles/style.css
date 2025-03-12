@@ -37,6 +37,11 @@
 @import url(../blocks/content/cover/__title/cover__title.css);
 @import url(../blocks/content/cover/__paragraph/cover__paragraph.css);
 
+@import url(../blocks/content/footer/footer.css);
+@import url(../blocks/content/footer/__link/footer__link.css);
+@import url(../blocks/content/footer/__copyright/footer__copyright.css);
+@import url(../blocks/content/footer/__nav/footer__nav.css);
+
 
 
 @font-face { 
@@ -44,10 +49,6 @@
     src: url(../fonts/Inter.ttc) format("truetype");
     font-style: normal;
     font-weight: normal;
-}
-
-*{
-    border: 1px solid red;
 }
 
 body{
