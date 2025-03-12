@@ -32,6 +32,11 @@
 @import url(../blocks/content/places/place/__paragraph-sett/place__paragraph-sett.css);
 @import url(../blocks/content/places/place/__paragraph/place__paragraph.css);
 
+@import url(../blocks/content/cover/cover.css);
+@import url(../blocks/content/cover/__overlay/cover__overlay.css);
+@import url(../blocks/content/cover/__title/cover__title.css);
+@import url(../blocks/content/cover/__paragraph/cover__paragraph.css);
+
 
 
 @font-face { 
